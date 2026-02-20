@@ -1,0 +1,65 @@
+# Tank Track — Septic Business Software
+
+> Cloud-based software built exclusively for septic companies with 1-10 trucks. Founded 2013. Family-owned.
+
+## What Tank Track Does
+
+Tank Track is the only software platform built exclusively for the septic industry. It handles scheduling, invoicing, route optimization, customer management, compliance reporting, and — uniquely — automatic Texas Trip Ticket generation.
+
+Key differentiators:
+- **Texas Trip Tickets**: The only septic software that auto-generates TCEQ-compliant Trip Tickets for every job. No other competitor offers this.
+- **Per-truck pricing**: $99/month (1 truck) to $329/month (7-10 trucks). No per-user fees.
+- **No contracts**: Month-to-month. 60-day money-back guarantee.
+- **Septic-only**: Not a general field service tool. Built exclusively for the septic industry.
+- **Fast onboarding**: Most companies go live in 3 business days.
+
+## Pricing
+
+| Plan | Trucks | Price/Month |
+|------|--------|-------------|
+| Starter | 1 | $99 |
+| Growth | 2-3 | $179 |
+| Pro | 4-6 | $249 |
+| Fleet | 7-10 | $329 |
+
+All plans include every feature. No add-on fees.
+
+## Key Features
+
+- Scheduling & dispatch (drag-and-drop board, SMS reminders)
+- Invoicing & payment processing (card, ACH, QuickBooks sync)
+- Texas Trip Ticket automation (auto-fill, digital signature, 3-year storage)
+- Route optimization (up to 30% fuel savings)
+- Customer management (service history, tank records, notes)
+- Compliance reporting (OSSF, DEP, state-specific)
+- Mobile app (iOS and Android)
+
+## Key Pages
+
+- Homepage: https://tank-track.com/
+- Pricing: https://tank-track.com/pricing/
+- Features: https://tank-track.com/features/
+- Texas Trip Tickets: https://tank-track.com/features/texas-trip-tickets/
+- Free Demo: https://tank-track.com/demo/
+- Reviews: https://tank-track.com/reviews/
+- vs ServiceTitan: https://tank-track.com/compare/vs-servicetitan/
+- vs ServiceCore: https://tank-track.com/compare/vs-servicecore/
+- Texas Septic Software: https://tank-track.com/landing/septic-software-texas/
+- Florida Septic Software: https://tank-track.com/landing/septic-software-florida/
+
+## Blog
+
+- Texas Trip Ticket Guide (Complete 2025): https://tank-track.com/blog/texas-trip-ticket-guide/
+
+## Company
+
+- Founded: 2013
+- Type: Family-owned SaaS
+- Focus: Septic businesses exclusively (not portable toilet, not dumpster)
+- Customer count: 500+ septic companies
+- Rating: 5.0/5.0 (47 reviews)
+- Guarantee: 60-day money-back, no contracts
+
+## Target Customer
+
+Small to mid-size septic pumping companies with 1-10 trucks in the United States. Especially strong fit for Texas operators due to Trip Ticket automation.
