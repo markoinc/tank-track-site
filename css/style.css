@@ -107,7 +107,7 @@ p:last-child { margin-bottom: 0; }
 }
 .hero::before {
   content: ''; position: absolute; inset: 0;
-  background: url('https://tank-track.com/wp-content/uploads/septic-worker-with-tablet.jpg') center/cover;
+  background: url('https://tank-track.com/wp-content/uploads/septic-worker-with-tablet.jpg') center bottom/cover;
   opacity: 0.12;
 }
 .hero-inner { position: relative; display: grid; grid-template-columns: 1fr 420px; gap: 60px; align-items: center; }
